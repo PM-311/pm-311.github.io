@@ -13,7 +13,7 @@ Dado que obtener soluciones analíticas exactas es frecuentemente inviable en es
 Este curso ofrece una formación integral en
 [**métodos numéricos**](https://es.wikipedia.org/wiki/An%C3%A1lisis_num%C3%A9rico),
 con un enfoque equilibrado entre teoría matemática y validación computacional.
-El programa abarca teoría de errores, solución de ecuaciones no lineales, sistemas de ecuaciones lineales, autovalores, interpolación, cuadratura numérica, problemas de valor inicial y de frontera en EDOs, así como una introducción a esquemas de diferencias finitas para EDPs.
+El programa abarca teoría de errores, solución de ecuaciones no lineales, sistemas de ecuaciones lineales, autovalores, interpolación, cuadratura numérica, problemas de valor inicial y de frontera en EDOs.
 
 El aprendizaje es fundamentalmente **práctico y aplicado**:
 exploraremos las propiedades de convergencia y estabilidad mediante la implementación directa en

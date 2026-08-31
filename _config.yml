@@ -1,6 +1,6 @@
-title: PM311 / 2026-II Métodos Numéricos
-description: Página web del curso PM311 / 2026-II
-sitename: PM311
+title: Métodos Numéricos PM 311 / 2026-II
+description: Página web del curso PM 311 / 2026-II
+sitename: PM 311
 baseurl: 'pm-311.github.io'
 sass:
   sass_dir: /assets/_sass
