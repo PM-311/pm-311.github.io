@@ -21,6 +21,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 
 ### Canales de comunicación
 
+- **Grupo de WhatsApp**: [Enlace de invitación](https://chat.whatsapp.com/J4nSbjfkHVW2dwL7YVVCMs).
 - **GitHub Education:** Se invita a los estudiantes a registrarse en el aula virtual. Utilizaremos el [foro de discusiones](https://github.com/PM-311/laboratorios/discussions) para resolver consultas.
 
 ### Horario del curso (PM-311)
