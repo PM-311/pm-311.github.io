@@ -7,6 +7,7 @@ image: ""
 ---
 
 - **01 de septiembre**: [Solución](assets/assignments/entrance.pdf) de la prueba de entrada.
+- **01 de septiembre**: [Lista](assets/assignments/lista1.pdf) de ejercicios.
 {% comment %}
 - **3 de abril**: Día feriado (viernes santo), no hay clase.
 - **8 de abril**: [Práctica calificada 1](assets/assignments/a2.pdf).
