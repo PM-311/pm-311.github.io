@@ -22,6 +22,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 ### Canales de comunicación
 
 - **GitHub Education:** Se invita a los estudiantes a registrarse en el aula virtual. Utilizaremos el [foro de discusiones](https://github.com/PM-311/laboratorios/discussions) para resolver consultas.
+- **Fotos de clase**: [Enlace a la galería de fotos](https://pm-311.github.io/gallery/photos)
 
 ### Horario del curso (PM-311)
 

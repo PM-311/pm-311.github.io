@@ -16,6 +16,4 @@ image: ""
 | Bibliografía                  | [5] [Numerical Methods and Analysis with Mathematical Modelling (William P Fox, Richard D West, 2024)](https://pm-311.github.io/assets/books/Fox.pdf)                     | Chapman and Hall/CRC.                                                                                                                        |
 | Bibliografía                  | [6] [Análisis Numérico: Un Enfoque Práctico (Melvin J. Maron, Robert J. Lopez, 3ª ed., 1987)](https://pm-311.github.io/assets/books/Maron.pdf)                            | ISBN: 978-9682607349. Compañía Editorial Continental (CECSA).                                                                                |
 | Bibliografía                  | [7] [Métodos Numéricos Aplicados a la Ingeniería (Antonio Nieves Hurtado, Federico C. Domínguez Sánchez, 4ª ed., 2012)](https://pm-311.github.io/assets/books/Nieves.pdf) | ISBN: 978-6074384468. Grupo Editorial Patria.                                                                                                |
-
-{% comment %}
-{% endcomment %}
+| Bibliografía                  | [8] [An Introduction to Numerical Analysis (Kendall E. Atkinson, 2ª ed., 1989)](https://math.science.cmu.ac.th/docs/qNA2556/ref_na/Katkinson.pdf)                         | Copyright © 1978, 1989, by John Wiley & Sons, Inc.                                                                                          |
