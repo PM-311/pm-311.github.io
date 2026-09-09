@@ -28,5 +28,5 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 
 |  Día   |     Tipo de sesión     |   Horario   | Aula  |
 | :----: | :--------------------: | :---------: | :---: |
-| Martes |         Teoría         | 14:00-16:00 | R5-4A |
-| Martes | Laboratorio / Práctica | 16:00-19:00 | R5-4A |
+| Martes |         Teoría         | 14:00-16:00 | R5-6A |
+| Martes | Laboratorio / Práctica | 16:00-18:00 | R5-6A |
