@@ -12,6 +12,7 @@ image: ""
 - **08 de septiembre**: [Lista 2](assets/assignments/lista2.pdf) de ejercicios.
 - **08 de septiembre**: [Solución](https://colab.research.google.com/github/PM-311/laboratorios/blob/main/2_no_lineales_solucionado.ipynb) de laboratorio.
 - **15 de septiembre**: [Solución](assets/assignments/homework1solution.pdf) de la primera tarea.
+- **15 de septiembre**: [Solución](https://colab.research.google.com/github/PM-311/laboratorios/blob/main/3_tarea2_estudiante.ipynb) de laboratorio.
 {% comment %}
 - **3 de abril**: Día feriado (viernes santo), no hay clase.
 - **8 de abril**: [Práctica calificada 1](assets/assignments/a2.pdf).
